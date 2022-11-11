@@ -1,0 +1,15 @@
+.signup {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    align-items: center;
+    margin: 200px 0px;
+  }
+  
+  .signupheading {
+    font-size: 50px;
+    padding: 10px 10px;
+  }
+  
+  
+  
